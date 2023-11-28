@@ -1,5 +1,4 @@
 from taskmanager import db
-from taskmanager import create_app, db
 
 
 class Category(db.Model):
