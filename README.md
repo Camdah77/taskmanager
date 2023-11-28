@@ -42,3 +42,6 @@ SQLAlchemy       1.4.46
 Werkzeug         3.0.1
 
 npm list -g
+
+## Useful links
+https://docs.sqlalchemy.org/en/13/core/type_basics.html 
